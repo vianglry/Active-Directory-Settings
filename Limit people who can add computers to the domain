@@ -1,5 +1,6 @@
-By default, every user in the domain can add up to 10 computers. In a secure environment
-Most permissions should be handled with security groups for easy asignment
+By default, every user in an Active Directory Domain can add up to 10 computers to your domain. We would obviously like to change 
+that to something more limiting in order to maintain control over devices in our environment. This group policy object
+change will adjust the Default Domain Policy to allow security groups determnined by the IT department to add computers.
 
 
 
