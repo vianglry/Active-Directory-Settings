@@ -1,0 +1,19 @@
+By default, every user in the domain can add up to 10 computers. In a secure environment
+Most permissions should be handled with security groups for easy asignment
+
+
+
+Create a group
+
+Open Group Policy Management
+Go to Group Policy Management > Forest > Domains > _Name of your domain_
+Right-click 'Default Domain Policy'
+In the dialoug box that appears, click 'Edit'
+
+This will open the Group Policy Management Edidtor for the 'Default Domain Policy'
+
+Go to Default Domain Policy > Computer Configuration > Policies > Windows Settings > Security Settings > Local Policies
+In the right-side window click 'Add workstations to domain' Policy
+Tick 'Define these policy setting:'
+click 'Add User or Group'
+In the new dialouge box, type the name of the user groups allowed to add computers to the domain
