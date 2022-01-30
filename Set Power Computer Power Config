@@ -1,1 +1,26 @@
 
+Computer Configuration > Polices > Administrative Templates > System > Power Management > Button Settings>
+
+Set the lid Switch action (On Battery)
+  Enabled
+  Lid Switch Action: Take no Action
+  
+Set the lid Switch action (Plugged In)
+  Enabled
+  Lid Switch Action: Take no Action
+ 
+ 
+ 
+ 
+Select the Power button action (On Battery)
+  Enabled
+  Lid Switch Action: Shut Down
+  
+Select the Power button action (Plugged In)
+  Enabled
+  Lid Switch Action: Shut Down
+  
+  
+  
+  
+  
