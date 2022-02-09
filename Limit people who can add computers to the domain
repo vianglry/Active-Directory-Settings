@@ -18,3 +18,5 @@ In the right-side window click 'Add workstations to domain' Policy
 Tick 'Define these policy setting:'
 click 'Add User or Group'
 In the new dialouge box, type the name of the user groups allowed to add computers to the domain
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/add-workstations-to-domain
